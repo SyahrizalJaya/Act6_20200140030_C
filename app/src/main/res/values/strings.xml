@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">sqlite</string>
+    <string name="tdeletedata">Delete Data</string>
+    <string name="tsimpan">Save</string>
+    <string name="teditdata">Edit Data</string>
+    <string name="tnama">Nama</string>
+    <string name="notelp">No Telpon</string>
+    <string name="tcreatedata">Create Data</string>
+    <string name="tview">View</string>
 </resources>

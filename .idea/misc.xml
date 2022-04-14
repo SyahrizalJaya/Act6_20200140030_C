@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/JAYA/AndroidStudioProjects/sqlite/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/JAYA/AndroidStudioProjects/sqlite/app/src/main/res/layout/activity_edit_teman.xml" value="0.18" />
+        <entry key="..\:/Users/JAYA/AndroidStudioProjects/sqlite/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/JAYA/AndroidStudioProjects/sqlite/app/src/main/res/layout/activity_teman_baru.xml" value="0.12590579710144928" />
-        <entry key="..\:/Users/JAYA/AndroidStudioProjects/sqlite/app/src/main/res/layout/row_data_teman.xml" value="0.1" />
+        <entry key="..\:/Users/JAYA/AndroidStudioProjects/sqlite/app/src/main/res/layout/row_data_teman.xml" value="0.25" />
+        <entry key="..\:/Users/JAYA/AndroidStudioProjects/sqlite/app/src/main/res/menu/menu.xml" value="0.225" />
       </map>
     </option>
   </component>
